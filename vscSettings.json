@@ -1,0 +1,59 @@
+{
+  "workbench.colorTheme": "Afterglow",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 18,
+  "editor.minimap.enabled": true,
+  "workbench.sideBar.location": "left",
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    [
+      "#66D9EF",
+      "#AE81FF",
+      "#A6E22E",
+      "#3F92D2",
+      "#FF8000",
+      "#D8B1FF",
+      "#FF32E8"
+    ],
+    "#F92672"
+  ],
+  "editor.formatOnSave": true,
+  "code-runner.clearPreviousOutput": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "python.pythonPath":
+    "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3",
+  "go.gopath": "/Users/iansudderth/go",
+  "emmet.triggerExpansionOnTab": true,
+  "git.enableSmartCommit": true,
+  "editor.wordWrap": "on",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "html.autoClosingTags": false,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "html"
+  ],
+  "auto-close-tag.SublimeText3Mode": true,
+  "editor.colorDecorators": false,
+  "go.lintOnSave": "workspace",
+  "go.lintTool": "megacheck",
+  "terminal.integrated.fontSize": 18,
+  "typescript.check.npmIsInstalled": false
+}
