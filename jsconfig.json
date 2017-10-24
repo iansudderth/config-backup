@@ -1,0 +1,13 @@
+{
+  // For Styled Components Autocomplete
+  //   run in terminal to install:
+  // yarn add typescript-styled-plugin typescript
+
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "typescript-styled-plugin"
+      }
+    ]
+  }
+}
