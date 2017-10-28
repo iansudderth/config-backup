@@ -1,0 +1,8 @@
+{
+  // add these to the scripts sections
+  "test": "jest",
+  "test-coverage": "jest --coverage",
+  "test-full": "jest --coverage --verbose",
+  "test-changed": "jest --onlyChanged",
+  "test-watch": "jest --watch"
+}
