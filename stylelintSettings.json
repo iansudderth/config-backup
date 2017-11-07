@@ -1,0 +1,7 @@
+{
+  // include inside package.json
+  //   yarn add --dev stylelint-config-standard
+  "stylelint": {
+    "extends": "stylelint-config-standard"
+  }
+}
